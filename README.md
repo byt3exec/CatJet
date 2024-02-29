@@ -66,3 +66,5 @@ General Options
   --use-feature <feature>     Enable new functionality, that may be backward incompatible.
   
   --use-deprecated <feature>  Enable deprecated functionality, that will be removed in the future.
+
+  ### CatJet is now on 2.0 version
